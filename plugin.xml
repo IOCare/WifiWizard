@@ -4,12 +4,13 @@
     id="iocwifiwizard-cordova-plugin"
     version="2.4.1">
 
+
     <name>WifiWizard</name>
     <description>This plugin allows Phonegap applications to manage Wifi connections.</description>
 	<author>Matt Parsons</author>
 	<keywords>phonegap,network,wifi</keywords>
     <license>Apache 2.0</license>
-	<repo>https://github.com/parsonsmatt/WifiWizard/</repo>
+	<repo>https://github.com/IOCare/WifiWizard/</repo>
 
     <js-module src="www/WifiWizard.js" name="WifiWizard">
     	<clobbers target="window.WifiWizard"/>
