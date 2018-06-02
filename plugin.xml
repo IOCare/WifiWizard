@@ -8,6 +8,9 @@
     <name>WifiWizard</name>
     <description>This plugin allows Phonegap applications to manage Wifi connections.</description>
 	<author>Matt Parsons</author>
+	  <engines>
+		<engine name="cordova" version=">=3.4.0"/>
+	  </engines>
 	<keywords>phonegap,network,wifi</keywords>
     <license>Apache 2.0</license>
 	<repo>https://github.com/IOCare/WifiWizard/</repo>
